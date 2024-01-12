@@ -31,3 +31,6 @@ mkdir vscode_github && cd vscode_github
 git init
 git remote add origin {SSH link to GitHub Repo}
 ```
+
+
+This is nonsense text
